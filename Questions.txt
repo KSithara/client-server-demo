@@ -1,0 +1,19 @@
+What is this city?
+a.Kandy ,  b.Colombo ,  c.Jaffna ,  d.Galle ,  e.Ampara  ,
+b
+
+What is the best school? ,
+a.Ananda ,  b.Nalanda ,  c.Holy Family Convent ,  d.Maliyadeva ,  e.St Annes  ,
+c
+
+Who is Anna's sister? ,
+a.Elsa ,  b.Hanna ,  c.Julliet ,  d.Charlet ,  e.Nova  ,
+a
+
+Who is Mr. Aruna? ,
+a.Accountant ,  b.IT Sup ,  c.Mgriso ,  d.DGM ,  e.Mgrisd  ,
+e
+
+How old is Mr. Aruna's son ,
+a.8 ,  b.6 ,  c.10 ,  d.7 ,  e.5  ,
+d
